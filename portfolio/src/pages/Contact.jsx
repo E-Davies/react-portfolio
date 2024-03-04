@@ -6,10 +6,6 @@ import { toast } from 'react-toastify';
 
 function Contact() {
 
-    const sendToast = () => {
-        toast("📧 Teeeeeeeeeeeeeeeesting!", {autoClose: 4000, theme: "dark",})
-    }
-
     /************** Allow user to send a message via the contact form using email.js *******************/
     const form = useRef();
 
@@ -58,7 +54,6 @@ function Contact() {
                             </div>
                             <button type="submit" value="Send" className="btn btn-sm btn-primary mt-4">Submit</button>
                         </form>
-                        <button type="submit" value="Send" className="btn btn-sm btn-primary mt-4 w-50" onClick={sendToast}>Test Toast</button>
                     </div>
 
                 </div>
