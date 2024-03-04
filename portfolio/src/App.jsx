@@ -5,9 +5,9 @@ import './App.css';
 
 
 // Page components
-import Home from './components/pages/Home';
-import ProjectGallery from './components/pages/ProjectGallery';
-import Contact from './components/pages/Contact';
+import Home from './pages/Home';
+import ProjectGallery from './pages/ProjectGallery';
+import Contact from './pages/Contact';
 
 // components
 import Header from './components/Header';

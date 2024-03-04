@@ -1,8 +1,8 @@
 
 // Import Component
-import Project from '../Project';
-import projects from '../../../data/projects.json'
-import ScrollToTop from '../ScrollToTop';
+import Project from '../components/Project';
+import projects from '../data/projects.json'
+import ScrollToTop from '../components/ScrollToTop';
 
 
 function ProjectGallery() {

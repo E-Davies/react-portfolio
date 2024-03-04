@@ -3,9 +3,9 @@ import { NavLink } from "react-router-dom";
 
 
 // Import component
-import Skills from '../Skills';
-import skill from '../../../data/skills.json'
-import ScrollToTop from '../ScrollToTop'
+import Skills from '../components/Skills';
+import skill from '../data/skills.json'
+import ScrollToTop from '../components/ScrollToTop'
 
 
 function Home() {
