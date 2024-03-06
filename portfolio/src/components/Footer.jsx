@@ -7,9 +7,9 @@ function Footer() {
     return (
         <footer >
             <div>
-                <a href="https://www.linkedin.com/" target="_blank"><FontAwesomeIcon icon={faLinkedinIn} /></a>
+                <a href="https://www.linkedin.com/in/emmadavies2/" target="_blank"><FontAwesomeIcon icon={faLinkedinIn} /></a>
                 <a href="https://github.com/E-Davies/" target="_blank"><FontAwesomeIcon icon={faGithub} /></a>
-                <a href="https://www.instagram.com/" target="_blank"><FontAwesomeIcon icon={faInstagram} /></a>
+                <a href="https://www.instagram.com/this_girl_shall_code/" target="_blank"><FontAwesomeIcon icon={faInstagram} /></a>
             </div> 
         </footer>
     );

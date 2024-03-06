@@ -25,7 +25,7 @@ function Home() {
                                 to="contact" 
                                 className='btn btn-primary btn-md col-6'
                             >
-                                Contact details 
+                                Contact me 
                             </NavLink>
                         </div>
                     </div>
