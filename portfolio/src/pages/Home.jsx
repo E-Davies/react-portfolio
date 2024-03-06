@@ -15,7 +15,7 @@ function Home() {
                 <div className="container-fluid py-5">
                     <div className="row col-11 p-3">
                         <div className="profile-img col-lg-5 col-xl-4">
-                            <img src='./images/e-davies-2.JPG' className=".img-fluid" alt="profile image"/>
+                            <img src='./images/e-davies.JPG' className=".img-fluid" alt="profile image"/>
                         </div>
                         <div className="profile-detail col-sm col-lg-7 col-xl-8">
                             <h1 className="display-5 fw-bold">Hi! 👋 I'm Emma </h1>
