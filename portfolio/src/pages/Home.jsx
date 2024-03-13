@@ -47,7 +47,7 @@ function Home() {
                 <h2>CV</h2>
                 <div className="container-fluid text-center pb-5">
                     <p>You can see my full career history by downloading my CV:</p>
-                    <a href="https://drive.google.com/file/d/1DRcnmqUQVhH3BJMnL9-VU6_qn00xrpoY/view?usp=sharing" target="_blank" className="btn btn-primary">Click here to see my CV</a>
+                    <a href="https://drive.google.com/file/d/15X1DqcEZA5dZ0fRqZ8qogV-jaXh3LzsL/view?usp=sharing" target="_blank" className="btn btn-primary">Click here to see my CV</a>
                 </div>
                 <ScrollToTop />    
             </section>
